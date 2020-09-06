@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `jamming.fm`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `IT業界ネタ、サラリーマンたちの日々の気づきから既存の価値観を疑ってみる音声メディア`,
     siteUrl: `https://delog-w3layouts.netlify.com/`,
     home: {
       title: ``,
