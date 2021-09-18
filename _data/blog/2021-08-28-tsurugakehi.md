@@ -6,7 +6,7 @@ title: 【無知の知】敦賀気比ってなに？
 metaDescription:
 ---
 
-###【無知の知】とは  
+### 【無知の知】とは  
 世の中のあらゆるテーマを取り上げて、知らないことは恥ずかしいという気持ちを捨て、知らないことに対して正直になろうとする2人がそのテーマを深堀りしていくyoutube配信です。  
 [YouTubeチャンネルJamming.fm](https://www.youtube.com/channel/UCobMDbV2byoiGHb6Iw7zGhw)  
 
