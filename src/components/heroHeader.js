@@ -26,9 +26,6 @@ export default () => (
             <a href="https://open.spotify.com/show/5zCikfl5tXX9DPMQ8Hxih3" >
               <img src="/assets/logos/Spotify_Icon_RGB_Green.png" alt="Spotify" height="30px"/>
             </a>　
-            <a href="https://soundcloud.com/jammingfm"> 
-              <img src="/assets/logos/soundcloud.png" alt="SoundCloud" height="30px" />
-            </a>
           </p>
         </div>
       </div>
