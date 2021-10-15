@@ -1,0 +1,5 @@
+tasks:
+  - init: >
+      nvm install 14 &&
+      npm install -g gatsby-cli &&
+      npm install
