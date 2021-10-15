@@ -1,4 +1,5 @@
 tasks:
-  - before: "nvm install 14"
-  - init: "npm install -g gatsby-cli"
-  - init: "npm install"
+  - init: >
+      nvm install 14 &&
+      npm install -g gatsby-cli &&
+      npm install
