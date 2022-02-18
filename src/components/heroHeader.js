@@ -20,6 +20,9 @@ export default () => (
         <div className="primary-content">
           <p>{data.site.siteMetadata.home.description}</p>
           <p>
+            <a href="https://twitter.com/jammingfm" >
+              <img src="/assets/logos/twitter.png" alt="Twitter" height="30px"/>
+            </a>　
             <a href="https://podcasts.apple.com/us/podcast/jamming-fm/id1469760108?itsct=podcast_box_appicon&amp;itscg=30200" >
               <img src="/assets/logos/apple-podcast.png" alt="Apple Podcasts" height="30px"/>
             </a>　
