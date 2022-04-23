@@ -1,4 +1,3 @@
-
 # Delog - Blog for Developer and Designer
 This simple website built with GatsbyJS and Netlify CMS. Deploys on netlify with single click. This Starter is sponsered by [W3Layouts](https://w3layouts.com).
 
@@ -66,3 +65,4 @@ For issues,feedback on enhancement or sharing your new awesome website built wit
 ## Change log
 - Dark Mode (April 21, 2020)
 - Official Launch (March 14, 2020)
+
