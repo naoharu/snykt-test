@@ -49,5 +49,17 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "overrides": {
+    "@types/node-fetch": {
+      "form-data": "3.0.5"
+    },
+    "@graphql-tools/url-loader": {
+      "form-data": "4.0.6"
+    }
+  },
+  "resolutions": {
+    "@types/node-fetch/form-data": "3.0.5",
+    "@graphql-tools/url-loader/form-data": "4.0.6"
   }
 }
