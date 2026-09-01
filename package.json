@@ -32,6 +32,12 @@
     "node-sass": "^6.0.1",
     "prettier": "^1.19.1"
   },
+  "overrides": {
+    "@babel/traverse": "7.23.2"
+  },
+  "resolutions": {
+    "@babel/traverse": "7.23.2"
+  },
   "homepage": "https://github.com/W3Layouts/Delog#readme",
   "keywords": [
     "gatsby",
