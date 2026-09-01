@@ -41,6 +41,12 @@
     "type": "git",
     "url": "git+https://github.com/W3Layouts/Delog.git"
   },
+  "overrides": {
+    "@babel/traverse": "7.23.2"
+  },
+  "resolutions": {
+    "@babel/traverse": "7.23.2"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
